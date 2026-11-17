@@ -77,6 +77,24 @@ An analytics dashboard will be built to:
 - Produce clean, accurate reports.
 - Support decision-making.
 
+## Phase I – Business Process Modeling
+
+### Chosen Business Process
+
+The selected business process is **equipment maintenance**. The process goes from a staff member performing their maintenance duties on equipment to recording the work done in maintenance logs.
+
+### Modeling tool
+
+A **UML Activity diagram** was drawn using draw.io.
+
+### Published diagram
+
+[View the equipment maintenance activity diagram](https://viewer.diagrams.net/?tags=%7B%7D&lightbox=1&highlight=0000ff&edit=_blank&layers=1&nav=1&title=aoms_equip_maintenance.drawio&dark=auto#Uhttps%3A%2F%2Fdrive.google.com%2Fuc%3Fid%3D1IWLlhPEPnwq5OdCgkdH-TuF5rz5Lf3CL%26export%3Ddownload)
+
+### Supporting explanation
+
+See the [business process explanation document](docs/business_process/business_process_explanation.pdf).
+
 ## References
 
 Airport Cooperative Research Program. (2015). *Alternative IT delivery methods and best practices for small airports*. The National Academies Press. https://doi.org/10.17226/22198
