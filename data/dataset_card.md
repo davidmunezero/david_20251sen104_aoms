@@ -26,3 +26,12 @@
 
 ## Disclosure
 I could not find readily accessible airport equipment data online, so I generated a synthetic unstructured dataset (airport_equipment.csv) using Claude from Anthropic on 24 November 2026, from prompts describing typical airport equipment categories (baggage handling, airfield lighting, GSE, emergency equipment).
+
+## Data Analysis Report
+| File | Records | Quality Findings |
+| --- | --- | --- |
+| staff_shifts.csv | 600 | 15 unnamed columns; 600 missing values in one column |
+| inspections.csv | 53,670 | 76 columns; 2,660,045 missing cells; sparse optional fields |
+| airport_equipment.csv | 178 | 4 duplicate rows; 10 missing asset IDs; inconsistent dates and categories |
+| Airport_Runways.csv | 30 | 5 missing values; 27 whitespace-only cells | 
+| maintenance_logs.csv | 400 | 	16 unnamed columns; 6 repeated first-column identifiers | 
