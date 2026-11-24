@@ -1,0 +1,179 @@
+asset_id,equipment,category,location,status,last_inspection,next_due,details,notes,technician
+LGT-923,Approach Light System (ALS),Airfield Lighting,KGL - TWY B,serviceable,"Dec 12, 2025",20261212,,lamp failure on 2 fixtures,S.Kamau
+BHS-777,Baggage Carousel,Baggage Handling,KGL - Make-up Area 3,ACTIVE,2026-11-01,30/04/2027,,,R. Bekele
+BHS-709,Bag Tag Printer,Baggage Handling,JNB - Make-up Area 3,Operational,20261023,"Jan 21, 2027",Vanderlande model VX-65,,S.Kamau
+LGT-520,PAPI,Airfield Lighting,EBB - RWY 10,ACTIVE,02-08-26,2026-08-07,4-box unit; angle 2.7 deg,CCR replaced,L. Habimana
+EMG-923,Evacuation Slide Trailer,Emergency Equipment,Kigali Intl - Fire Station 2,ACTIVE,13/12/2025,01-12-26,"pads exp Feb 26, 2027",monthly test passed,R. Bekele
+BHS-351,Make-up Unit,baggage handling,DAR - Terminal 2 Dep. Hall,serviceable,01-23-26,"Jul 22, 2026",belt len=28m; motor 5.5kW,,L. Habimana
+BHS-935,X-ray Screening Unit (HBS),Baggage Handling,DAR - Belt 4,u/s,10-13-26,"Nov 12, 2026",Siemens model BG-61,,S.Kamau
+BHS-510,X-ray Screening Unit (HBS),Baggage Handling,CPT - Carousel 2,Operational,20260728,20260827,hours: 19394,belt tracking off,S.Kamau
+GSE-839,Fuel Bowser,Ground Support Equipment,NBO - GSE Depot,In Service,2026-03-29,2026-04-28,engine hrs 465,driver reported vibration,T. Smith
+BHS-342,Baggage Carousel,Baggage Handling,FIH - Make-up Area 3,ACTIVE,,27/07/2026,speed 1.7 m/s,,unknown
+LGT-482,Wind Cone Light,Airfield Lighting,Kigali Intl - TWY C,Decommissioned,27/03/2026,20260426,lamps out: 1/12,"intermittent fault, see WO#18855",R. Bekele
+ACF-660,Airbus A320neo,Aircraft,NBO - Hangar 1,u/s,20251129,28/05/2026,next C-check 10-20-27,,unknown
+LGT-956,VASI,Airfield Lighting,FIH - TWY B,Faulty,12-30-25,12-30-26,,"vendor called, no response",
+LGT-628,Taxiway Centerline Light,Airfield Lighting,LOS - RWY 10/28,Faulty,2026-05-16,2026-06-15,circuit C1 insulation res 265 Mohm,"intermittent fault, see WO#31012",A.Okafor
+EMG-879,Emergency Medical Kit,Emergency Equipment,FIH - Cargo Terminal,operational,"Sep 09, 2026",20270308,foam 1500L; water 9000L,,A.Okafor
+GSE-393,Aircraft Tow Tug,Ground Support Equipment,EBB - Stand 7,Operational,2026-11-14,2027-05-13,max payload 12t,driver reported vibration,S.Kamau
+BHS-689,Make-up Unit,Baggage Handling,EBB - Terminal 2 Dep. Hall,Operational,20260403,,,calibrated OK,M. Dlamini
+LGT-920,Taxiway Centerline Light,Airfield Lighting,KGL - RWY 10/28,Operational,20261015,2027-10-15,,,T. Smith
+ACF-203,Boeing 777-300ER,Aircraft,JNB - Hangar 2,Pending Repair,2026-08-30,08-30-27,reg 5N-SEB; Uganda Airlines,"vendor called, no response",M. Dlamini
+GSE-720,Passenger Boarding Stairs,Ground Support Equipment,DAR - Stand 7,In Service,20260905,2027-09-05,fleet no. 44,brakes ok,A.Okafor
+BHS-880,Bag Tag Printer,Baggage Handling,JNB - Carousel 2,In Service,2026-11-21,2027-05-20,belt len=8m; motor 11kW,jam at merge point,L. Habimana
+GSE-468,De-icing Vehicle,ground support equipment,Kigali Intl - Cargo Apron,OK,"Jun 21, 2026",20260721,engine hrs 11509,,M. Dlamini
+ACF-543,Airbus A320neo,Aircraft,LOS - Remote Stand R3,Operational,2026-02-24,2026-03-26,MSN 7859; delivered 2021,,R. Bekele
+ACF-507,Airbus A320neo,aircraft,LOS - Maintenance Apron,airworthy,"Mar 25, 2026","Apr 24, 2026",MTOW 228t,engine borescope due,
+ACF-146,Boeing 737-800,Aircraft,EBB - Stand 7,serviceable,2026-06-26,"Dec 23, 2026",,,
+GSE-252,Pushback Tractor,Ground Support Equipment,EBB - Remote Stand R3,Pending Repair,05/06/2026,06-05-27,hybrid,"vendor called, no response",J. Mugisha
+BHS-791,Belt Conveyor,Baggage Handling,CPT - Terminal 2 Dep. Hall,Operational,2026-08-19,"Sep 18, 2026",belt len=41m; motor 7.5kW,,unknown
+LGT-825,Runway End Identifier Lights (REIL),Airfield Lighting,EBB - TWY C,serviceable,20251130,20261130,lamp 200W; Halogen,,S.Kamau
+LGT-192,Taxiway Centerline Light,Airfield Lighting,EBB - RWY 10/28,Operational,01-30-26,29/07/2026,2-box unit; angle 3.3 deg,,T. Smith
+LGT-990,Runway End Identifier Lights (REIL),Airfield Lighting,EBB - TWY A,ACTIVE,"May 13, 2026",,,CCR replaced,S.Kamau
+,,,,,,,----- end of Q3 import -----,,
+EMG-278,Runway Sweeper,Emergency Equipment,LOS - Power House,Operational,2025-12-11,2026-06-09,pads exp 20270503,tested during drill,L. Habimana
+EMG-621,Runway Sweeper,Emergency Equipment,DAR - ARFF Bay,Decommissioned,2026-10-01,2026-10-31,cert expiry 2027-11-28,response time 2m50s,A.Okafor
+ACF-938,Bombardier Q400,Aircraft,DAR - Hangar 1,ACTIVE,2026-07-29,20260828,9XR-TVT / pax cfg C12Y138,repainted,A.Okafor
+BHS-782,Baggage Tug,Baggage Handling,LOS - Terminal 2 Dep. Hall,Operational,20251119,20260518,belt len=47m; motor 11kW,noisy bearing,M. Dlamini
+BHS-552,Belt Conveyor,Baggage Handling,FIH - Belt 4,Decommissioned,,03-16-27,Vanderlande model BG-36,"awaiting spare part, ETA 2 wks",M. Dlamini
+GSE-491,Belt Loader,Ground Support Equipment,LOS - Stand 12,serviceable,21/04/2026,10-18-26,engine hrs 2286,battery degraded,R. Bekele
+BHS-379,Bag Tag Printer,Baggage Handling,EBB - Carousel 2,In Service,"Feb 20, 2026",05-21-26,hours: 22725,jam at merge point,T. Smith
+EMG-318,Evacuation Slide Trailer,Emergency Equipment,NBO - Terminal 1 L2,Pending Repair,2026-08-30,08-30-27,pressure 8.8 bar,"vendor called, no response",
+GSE-978,Ground Power Unit (GPU),Ground Support Equipment,KGL - Stand 12,In Service,20251227,"Jun 25, 2026",odometer 6602 km,,S.Kamau
+LGT-523,Wind Cone Light,Airfield Lighting,Kigali Intl - TWY C,operational,20260416,2027-04-16,lamp 45W; LED,glide slope 3.0 deg verified,
+GSE-796,Cargo Loader (ULD),Ground Support Equipment,CPT - Stand 12,OUT OF SERVICE,2025-12-29,2026-01-28,odometer 16774 km,tyres replaced,S.Kamau
+GSE-717,Air Start Unit,Ground Support Equipment,LOS - Remote Stand R3,OK,2026-11-03,"Dec 03, 2026",,due for safety cert,L. Habimana
+ACF-176,Cessna 208 Caravan,Aircraft,ADD - Hangar 2,ACTIVE,,20270327,ZS-NHC / pax cfg Y70,,J. Mugisha
+ACF-328,Airbus A320neo,Aircraft,ADD - Apron East,In Maintenance (C-check),22/12/2025,2026-01-21,reg ZS-BXV; Kenya Airways,,T. Smith
+LGT-417,PAPI,Airfield Lighting,KGL - TWY A,Operational,2026-08-12,11/09/2026,lamp 200W; halogen,cable fault suspected,R. Bekele
+EMG-560,Fire Extinguisher,Emergency Equipment,ADD - Power House,ACTIVE,"Sep 28, 2026",2026-12-27,foam 1500L; water 6000L,tested during drill,M. Dlamini
+EMG-125,Emergency Shower/Eyewash,Emergency Equipment,Kigali Intl - Terminal 1 L2,In Service,20251023,21/01/2026,"cert expiry Mar 11, 2028",battery low,A.Okafor
+,Runway End Identifier Lights (REIL),Airfield Lighting,LOS - RWY 28,operational,"Jan 25, 2026",24/07/2026,4-box unit; angle 3.0 deg,PAPI alignment check needed,J. Mugisha
+EMG-374,Emergency Shower/Eyewash,Emergency Equipment,ADD - Fire Station 1,In Service,"Feb 14, 2026","Mar 16, 2026",50kVA; fuel 77%,,A.Okafor
+LGT-773,Stopbar Light,Airfield Lighting,FIH - TWY B,In Service,08/02/2026,10/03/2026,4-box unit; angle 2.7 deg,,A.Okafor
+LGT-180,Rotating Beacon,Airfield Lighting,ADD - RWY 28,ACTIVE,20260709,"Aug 08, 2026",intensity step 4,PAPI alignment check needed,unknown
+EMG-918,Fire Tender (ARFF),Emergency Equipment,ADD - Power House,operational,03/07/2026,"Aug 02, 2026",ICAO cat 7,,R. Bekele
+ACF-597,Airbus A330-300,aircraft,JNB - Maintenance Apron,OK,04-26-26,"Oct 23, 2026",MSN 5400; delivered 2013,,R. Bekele
+GSE-353,Belt Loader,Ground Support Equipment,Kigali Intl - Apron Stand 4,In Service,"Feb 23, 2026",2027-02-23,diesel,tyres replaced,J. Mugisha
+LGT-975,Rotating Beacon,Airfield Lighting,KGL - RWY 05L,OUT OF SERVICE,06-29-26,29/07/2026,lamps out: 0/26,"vendor called, no response",T. Smith
+BHS-148,X-ray Screening Unit (HBS),Baggage Handling,FIH - Carousel 2,operational,2026-03-07,03-07-27,belt len=24m; motor 11kW,,A.Okafor
+GSE-842,Fuel Bowser,Ground Support Equipment,CPT - Cargo Apron,Operational,20260423,10-20-26,odometer 30324 km,,M. Dlamini
+EMG-865,AED Defibrillator,Emergency Equipment,EBB - Terminal 1 L2,ACTIVE,2026-04-25,2026-10-22,foam 1500L; water 9000L,monthly test passed,M. Dlamini
+,Airbus A320-200,Aircraft,LOS - Stand 12,ACTIVE,17/11/2025,2026-05-16,MTOW 351t,deferred defect MEL cat C,M. Dlamini
+GSE-749,Water Service Cart,ground support equipment,JNB - Cargo Apron,OUT OF SERVICE,05/09/2026,2027-09-05,fleet no. 12,"awaiting spare part, ETA 2 wks",S.Kamau
+GSE-349,Catering Truck,Ground Support Equipment,Kigali Intl - Fuel Farm,Operational,20260515,2027-05-15,,,T. Smith
+ACF-509,Boeing 777-300ER,Aircraft,FIH - Stand 7,Decommissioned,20260531,,MTOW 70t,failed insp - rescheduled,T. Smith
+GSE-238,Passenger Boarding Stairs,Ground Support Equipment,DAR - Apron Stand 4,OK,02/12/2025,20261202,,,T. Smith
+ACF-149,Bombardier Q400,Aircraft,KGL - Stand 4,OK,"Oct 24, 2025",2025-11-23,MSN 1152; delivered 2011,,T. Smith
+GSE-986,Pushback Tractor,Ground Support Equipment,CPT - Fuel Farm,In Service,2026-01-11,01-11-27,hybrid,,
+ACF-553,Boeing 777-300ER,Aircraft,EBB - Stand 7,operational,2026-09-15,"Mar 14, 2027",next C-check 2027-12-12,,J. Mugisha
+ACF-263,Boeing 737 MAX 8,Aircraft,ADD - Apron East,In Maintenance (C-check),2026-03-01,03-31-26,MSN 8301; delivered 2009,tech says needs full replacement??,unknown
+EMG-259,Emergency Generator,Emergency Equipment,EBB - Power House,Under Maintenance,,,,"awaiting spare part, ETA 2 wks",J. Mugisha
+ACF-635,Cessna 208 Caravan,Aircraft,KGL - Hangar 1,ACTIVE,2026-06-29,20270629,,tyre change done,
+ACF-915,Boeing 787-8,Aircraft,KGL - Maintenance Apron,ACTIVE,20260507,08-05-26,flight hrs 15581; cycles 21167,,L. Habimana
+EMG-276,Foam Tender,Emergency Equipment,Kigali Intl - Fire Station 1,ACTIVE,2026-04-21,2026-10-18,pads exp 20261206,,T. Smith
+EMG-774,Evacuation Slide Trailer,Emergency Equipment,CPT - Power House,ACTIVE,30/06/2026,2026-07-30,cert expiry 20280218,,T. Smith
+EMG-235,Fire Extinguisher,Emergency Equipment,JNB - Terminal 1 L2,Operational,17/04/2026,,,,A.Okafor
+LGT-907,Rotating Beacon,Airfield Lighting,KGL - TWY C,maint.,09-04-26,"Oct 04, 2026",lamps out: 3/21,cable fault suspected,M. Dlamini
+BHS-999,"Baggage Carousel, Belt 3",Baggage Handling,KGL - T1,Operational,2026-11-02,,"speed 1.2 m/s, note: has comma, in text","see log, ""quoted"" remark",M. Dlamini
+ACF-983,Airbus A320neo,Aircraft,DAR - Apron East,OK,2026-04-27,2027-04-27,9XR-RJG / pax cfg C12Y138,,unknown
+BHS-453,Sortation Tilt-Tray,Baggage Handling,CPT - Belt 4,OK,11-03-26,2026-12-03,speed 1.6 m/s,,S.Kamau
+GSE-394,Air Start Unit,ground support equipment,Kigali Intl - Fuel Farm,In Service,03-23-26,2026-06-21,max payload 25t,brakes ok,R. Bekele
+LGT-510,Runway Edge Light,Airfield Lighting,DAR - RWY 28,serviceable,14/03/2026,"Sep 10, 2026",,,R. Bekele
+LGT-859,Wind Cone Light,Airfield Lighting,Kigali Intl - TWY C,serviceable,05-25-26,20260624,lamps out: 4/24,lamp failure on 2 fixtures,S.Kamau
+BHS-516,Bag Tag Printer,Baggage Handling,DAR - Make-up Area 3,ACTIVE,2026-08-17,"Sep 16, 2026",Daifuku model BG-64,belt tracking off,
+ACF-567,Airbus A320neo,Aircraft,DAR - Maintenance Apron,Decommissioned,2026-08-12,2026-09-11,reg ET-SWR; Ethiopian,deferred defect MEL cat C,L. Habimana
+GSE-434,Ground Power Unit (GPU),Ground Support Equipment,DAR - Cargo Apron,ACTIVE,01-22-26,"Jan 22, 2027",max payload 12t,due for safety cert,M. Dlamini
+BHS-204,Baggage Carousel,baggage handling,EBB - Terminal 1 Arrivals,OUT OF SERVICE,,10-18-26,,,L. Habimana
+ACF-107,Boeing 787-8,Aircraft,CPT - Hangar 2,In Maintenance (C-check),2026-03-01,01/03/2027,MTOW 70t,deferred defect MEL cat C,unknown
+EMG-128,Fire Extinguisher,Emergency Equipment,CPT - Terminal 2 Gate 5,OK,2025-11-10,"May 09, 2026",pads exp 2027-08-29,,R. Bekele
+GSE-294,Passenger Boarding Stairs,Ground Support Equipment,DAR - Stand 12,OK,20260620,2026-07-20,engine hrs 4837,,L. Habimana
+EMG-229,Fire Extinguisher,Emergency Equipment,Kigali Intl - Fire Station 1,OK,"Feb 28, 2026",2026-08-27,ICAO cat 8,,T. Smith
+GSE-974,Pushback Tractor,Ground Support Equipment,CPT - Cargo Apron,ACTIVE,08-11-26,2026-11-09,fuel level 63%,hydraulic leak,R. Bekele
+ACF-852,ATR 72-600,Aircraft,FIH - Hangar 2,airworthy,,2027-01-13,MTOW 70t,"vendor called, no response",S.Kamau
+BHS-552,Loading Ramp/Belt Loader,Baggage Handling,FIH - Carousel 2,ACTIVE,12-22-25,06-20-26,speed 1.0 m/s,,M. Dlamini
+EMG-914,Emergency Medical Kit,Emergency Equipment,JNB - Power House,Decommissioned,2026-06-26,"Jul 26, 2026",pads exp 20270711,,J. Mugisha
+ACF-903,Bombardier Q400,Aircraft,JNB - Hangar 1,Operational,"Mar 06, 2026",2026-04-05,5H-SGZ / pax cfg Y150,A-check complete,T. Smith
+,VASI,Airfield Lighting,Kigali Intl - RWY 05L,In Service,02/10/2026,20271002,lamps out: 2/30,CCR replaced,R. Bekele
+GSE-792,Fuel Bowser,Ground Support Equipment,FIH - GSE Depot,serviceable,,2027-01-01,odometer 58483 km,battery degraded,M. Dlamini
+ACF-402,Cessna 208 Caravan,Aircraft,KGL - Hangar 1,AOG,20251118,12-18-25,MSN 3967; delivered 2011,tyre change done,
+GSE-607,De-icing Vehicle,Ground Support Equipment,FIH - GSE Depot,OK,,10-15-26,engine hrs 7412,tyres replaced,S.Kamau
+LGT-891,Stopbar Light,Airfield Lighting,CPT - TWY C,Decommissioned,20251222,"Jan 21, 2026",intensity step 3,"vendor called, no response",R. Bekele
+EMG-507,Evacuation Slide Trailer,Emergency Equipment,DAR - Power House,operational,22/03/2026,"Sep 18, 2026",,,R. Bekele
+ACF-910,Airbus A320-200,Aircraft,JNB - Hangar 1,AOG,"Feb 10, 2026",12/03/2026,MTOW 70t,,M. Dlamini
+BHS-434,Make-up Unit,Baggage Handling,DAR - Terminal 1 Arrivals,OUT OF SERVICE,2026-05-12,08/11/2026,speed 0.8 m/s,"intermittent fault, see WO#65255",T. Smith
+EMG-704,Evacuation Slide Trailer,Emergency Equipment,ADD - Terminal 2 Gate 5,Pending Repair,"Nov 26, 2025",05-25-26,pressure 7.5 bar,"intermittent fault, see WO#41270",T. Smith
+GSE-882,Passenger Boarding Stairs,Ground Support Equipment,CPT - Apron Stand 4,OK,2026-10-16,16/10/2027,fuel level 82%,driver reported vibration,J. Mugisha
+EMG-194,Rescue Vehicle,Emergency Equipment,KGL - Fire Station 2,Under Maintenance,,"Aug 13, 2027",cert expiry 20271021,,L. Habimana
+EMG-763,Emergency Generator,Emergency Equipment,FIH - ARFF Bay,Pending Repair,"Sep 25, 2026","Oct 25, 2026",50kVA; fuel 98%,"vendor called, no response",unknown
+,Bag Tag Printer,Baggage Handling,DAR - Terminal 1 Arrivals,u/s,09-19-26,"Mar 18, 2027",hours: 16654,replaced rollers last month,A.Okafor
+GSE-645,Belt Loader,Ground Support Equipment,JNB - Remote Stand R3,In Service,2026-06-15,13/09/2026,engine hrs 4935,due for safety cert,R. Bekele
+EMG-596,Runway Sweeper,Emergency Equipment,LOS - Fire Station 2,ACTIVE,"Oct 26, 2026","Apr 24, 2027",cert expiry 2026-10-26,response time 2m50s,T. Smith
+BHS-940,Belt Conveyor,Baggage Handling,KGL - Carousel 2,operational,12/08/2026,2027-08-12,speed 2.0 m/s,,L. Habimana
+LGT-409,Stopbar Light,Airfield Lighting,KGL - RWY 10,Operational,"Jan 01, 2026",2027-01-01,lamp 200W; Halogen,,unknown
+LGT-816,Rotating Beacon,Airfield Lighting,KGL - RWY 05L,Faulty,03/02/2026,2026-08-02,lamps out: 0/38,"vendor called, no response",J. Mugisha
+LGT-416,Rotating Beacon,Airfield Lighting,NBO - TWY C,serviceable,04-07-26,"Jul 06, 2026",,,T. Smith
+GSE-750,Water Service Cart,Ground Support Equipment,JNB - Remote Stand R3,ACTIVE,06-30-26,07-30-26,max payload 3t,,J. Mugisha
+GSE-103,Belt Loader,Ground Support Equipment,KGL - Cargo Apron,serviceable,2026-11-11,2027-11-11,odometer 9546 km,,T. Smith
+BHS-362,X-ray Screening Unit (HBS),Baggage Handling,FIH - Baggage Hall B,Pending Repair,2026-09-25,12-24-26,Vanderlande model S7-23,"awaiting spare part, ETA 2 wks",L. Habimana
+BHS-174,Sortation Tilt-Tray,Baggage Handling,Kigali Intl - Terminal 1 Arrivals,OK,04-02-26,29/09/2026,Daifuku model BG-88,,
+BHS-518,Baggage Carousel,Baggage Handling,JNB - Carousel 2,maint.,2026-02-13,15/03/2026,capacity 1800 bags/hr,tech says needs full replacement??,T. Smith
+BHS-584,Sortation Tilt-Tray,Baggage Handling,Kigali Intl - Carousel 2,ACTIVE,"Jan 31, 2026",20270131,capacity 1800 bags/hr,,M. Dlamini
+GSE-730,Aircraft Tow Tug,Ground Support Equipment,KGL - Fuel Farm,ACTIVE,2025-12-01,2026-05-30,fleet no. 7,,
+LGT-492,Threshold Light,Airfield Lighting,FIH - RWY 28,In Service,"Jul 21, 2026",07-21-27,,cable fault suspected,R. Bekele
+BHS-355,X-ray Screening Unit (HBS),baggage handling,LOS - Terminal 1 Arrivals,operational,,2026-07-19,speed 2.0 m/s,,T. Smith
+EMG-555,Fire Tender (ARFF),Emergency Equipment,DAR - Terminal 1 L2,Under Maintenance,2026-09-16,2026-12-15,foam 1500L; water 9000L,failed insp - rescheduled,
+,Pushback Tractor,Ground Support Equipment,NBO - Cargo Apron,serviceable,09-27-26,20261226,fuel level 71%,tyres replaced,S.Kamau
+LGT-389,PAPI,Airfield Lighting,KGL - TWY C,In Service,,,lamps out: 0/28,flight check due,T. Smith
+GSE-687,Belt Loader,Ground Support Equipment,JNB - Stand 12,OK,2026-05-16,"May 16, 2027",,due for safety cert,R. Bekele
+EMG-724,AED Defibrillator,Emergency Equipment,KGL - ARFF Bay,Pending Repair,01-25-26,24/07/2026,cert expiry 06-25-27,tech says needs full replacement??,T. Smith
+GSE-537,Passenger Boarding Stairs,Ground Support Equipment,EBB - Stand 7,OK,20261022,2027-01-20,engine hrs 3212,hydraulic leak,T. Smith
+,Aircraft Tow Tug,Ground Support Equipment,FIH - Fuel Farm,u/s,2026-06-09,09/06/2027,electric,tech says needs full replacement??,L. Habimana
+BHS-237,Belt Conveyor,Baggage Handling,FIH - Baggage Hall B,ACTIVE,2026-06-22,2026-07-22,hours: 9228,jam at merge point,L. Habimana
+,VASI,Airfield Lighting,NBO - TWY C,ACTIVE,20260428,20261025,lamps out: 5/16,glide slope 3.0 deg verified,J. Mugisha
+BHS-223,Baggage Tug,Baggage Handling,LOS - Carousel 2,In Service,2026-07-07,03/01/2027,belt len=46m; motor 7.5kW,,T. Smith
+LGT-554,Rotating Beacon,Airfield Lighting,FIH - RWY 28,In Service,12-06-25,01-05-26,2-box unit; angle 2.9 deg,lamp failure on 2 fixtures,A.Okafor
+LGT-240,Runway End Identifier Lights (REIL),Airfield Lighting,FIH - RWY 05L,OK,2026-10-03,2027-04-01,lamp 45W; Halogen,glide slope 3.0 deg verified,L. Habimana
+,ATR 72-600,aircraft,LOS - Hangar 1,Operational,20260426,04-26-27,reg 5H-ZZW; Kenya Airways,deferred defect MEL cat C,J. Mugisha
+LGT-883,PAPI,Airfield Lighting,NBO - TWY C,operational,09-19-26,,lamp 300W; halogen,cable fault suspected,J. Mugisha
+LGT-697,Runway Edge Light,Airfield Lighting,KGL - RWY 05L,u/s,20260511,2026-08-09,lamp 300W; halogen,glide slope 3.0 deg verified,unknown
+ACF-762,Boeing 737-800,Aircraft,EBB - Stand 4,Grounded,20260203,,5Y-XFW / pax cfg J24Y250,A-check complete,L. Habimana
+EMG-519,AED Defibrillator,Emergency Equipment,KGL - ARFF Bay,ACTIVE,,20260127,foam 6000L; water 9000L,"pressure low, refill",J. Mugisha
+GSE-406,Pushback Tractor,Ground Support Equipment,EBB - Fuel Farm,ACTIVE,10/09/2026,20270910,Diesel,tyres replaced,M. Dlamini
+LGT-415,Runway End Identifier Lights (REIL),Airfield Lighting,KGL - RWY 10,OK,2025-12-10,10/12/2026,lamps out: 3/27,glide slope 3.0 deg verified,M. Dlamini
+GSE-875,Water Service Cart,Ground Support Equipment,EBB - Remote Stand R3,Pending Repair,"Jun 03, 2026",2026-11-30,electric,service overdue!!,M. Dlamini
+LGT-419,Wind Cone Light,Airfield Lighting,Kigali Intl - RWY 10,Faulty,04-04-26,,,,A.Okafor
+,De-icing Vehicle,Ground Support Equipment,DAR - GSE Depot,operational,2026-01-28,27/07/2026,fleet no. 47,service overdue!!,
+BHS-553,Baggage Carousel,Baggage Handling,LOS - Make-up Area 3,In Service,12-16-25,2026-06-14,capacity 1200 bags/hr,,L. Habimana
+EMG-278,Fire Extinguisher,Emergency Equipment,CPT - ARFF Bay,In Service,12-30-25,"Dec 30, 2026",pressure 11.5 bar,,S.Kamau
+EMG-130,Runway Sweeper,Emergency Equipment,KGL - Fire Station 2,operational,11-09-26,2027-05-08,ICAO cat 7,,T. Smith
+ACF-759,Airbus A320-200,Aircraft,KGL - Stand 7,Operational,2025-11-17,17/12/2025,next C-check 26/09/2027,engine borescope due,L. Habimana
+ACF-844,Cessna 208 Caravan,aircraft,EBB - Maintenance Apron,serviceable,08/09/2026,2027-03-07,reg 5N-ZWV; Air Peace,,A.Okafor
+BHS-259,Belt Conveyor,Baggage Handling,EBB - Terminal 1 Arrivals,operational,30/11/2025,2026-11-30,capacity 1800 bags/hr,replaced rollers last month,A.Okafor
+BHS-813,Loading Ramp/Belt Loader,Baggage Handling,DAR - Terminal 2 Dep. Hall,Faulty,2026-07-10,07-10-27,,,T. Smith
+BHS-354,Belt Conveyor,Baggage Handling,NBO - Belt 4,Decommissioned,"Feb 07, 2026",08-06-26,capacity 1200 bags/hr,noisy bearing,L. Habimana
+ACF-803,Airbus A330-300,Aircraft,DAR - Apron East,In Maintenance (C-check),2025-11-15,"May 14, 2026",MTOW 351t,,J. Mugisha
+ACF-459,ATR 72-600,Aircraft,CPT - Hangar 1,operational,2026-04-25,2027-04-25,MSN 3787; delivered 2014,cabin pressurisation snag,R. Bekele
+EMG-863,Evacuation Slide Trailer,Emergency Equipment,FIH - Terminal 1 L2,ACTIVE,20260930,30/09/2027,foam 3000L; water 6000L,battery low,unknown
+BHS-489,Belt Conveyor,Baggage Handling,FIH - Baggage Hall B,OK,20261013,20270111,hours: 18502,calibrated OK,L. Habimana
+GSE-872,Passenger Boarding Stairs,ground support equipment,LOS - GSE Depot,In Service,20260412,07-11-26,,,
+GSE-835,Lavatory Service Truck,Ground Support Equipment,EBB - Stand 12,operational,06-01-26,30/08/2026,odometer 61641 km,driver reported vibration,A.Okafor
+LGT-548,Rotating Beacon,Airfield Lighting,KGL - TWY A,operational,09/07/2026,10-07-26,,,L. Habimana
+GSE-885,Ground Power Unit (GPU),Ground Support Equipment,LOS - GSE Depot,Pending Repair,24/10/2025,20260422,odometer 39485 km,service overdue!!,R. Bekele
+EMG-281,Fire Tender (ARFF),Emergency Equipment,ADD - Fire Station 1,ACTIVE,,2026-11-09,cert expiry 08/12/2026,,T. Smith
+GSE-770,Passenger Boarding Stairs,Ground Support Equipment,DAR - Fuel Farm,In Service,"Feb 04, 2026",20260505,odometer 46660 km,,
+LGT-788,Stopbar Light,Airfield Lighting,FIH - RWY 05L,Operational,"Jul 28, 2026",2026-08-27,lamps out: 2/20,,A.Okafor
+LGT-636,VASI,Airfield Lighting,NBO - TWY C,Operational,2026-07-21,2027-07-21,lamp 200W; halogen,flight check due,T. Smith
+EMG-610,Emergency Shower/Eyewash,Emergency Equipment,Kigali Intl - Cargo Terminal,Operational,"Jan 12, 2026",04-12-26,cert expiry 2028-04-03,"pressure low, refill",
+LGT-864,Wind Cone Light,Airfield Lighting,Kigali Intl - RWY 05L,Under Maintenance,25/07/2026,2027-01-21,circuit C1 insulation res 82 Mohm,lamp failure on 2 fixtures,T. Smith
+EMG-914,Emergency Medical Kit,Emergency Equipment,NBO - Fire Station 2,serviceable,17/12/2025,06-15-26,foam 1500L; water 12000L,cert expired,A.Okafor
+BHS-446,Make-up Unit,Baggage Handling,NBO - Terminal 1 Arrivals,In Service,,2026-12-21,hours: 17847,,M. Dlamini
+GSE-784,Belt Loader,Ground Support Equipment,NBO - Apron Stand 4,ACTIVE,2026-11-05,"Dec 05, 2026",fleet no. 24,hydraulic leak,J. Mugisha
+GSE-237,De-icing Vehicle,Ground Support Equipment,Kigali Intl - Cargo Apron,ACTIVE,2026-04-25,2027-04-25,max payload 5t,due for safety cert,
+EMG-354,Runway Sweeper,Emergency Equipment,CPT - Fire Station 1,ACTIVE,20260122,"Feb 21, 2026",pads exp 11-11-27,,M. Dlamini
+GSE-605,Fuel Bowser,Ground Support Equipment,DAR - Stand 7,Operational,2026-08-12,2026-11-10,max payload 25t,service overdue!!,unknown
+BHS-653,Make-up Unit,baggage handling,EBB - Baggage Hall B,OUT OF SERVICE,"Jul 25, 2026",,speed 1.7 m/s,tech says needs full replacement??,S.Kamau
+ACF-848,Bombardier Q400,Aircraft,LOS - Hangar 1,In Service,,,reg 5X-HHZ; Uganda Airlines,AOG - waiting on part,J. Mugisha
+GSE-749,Water Service Cart,ground support equipment,JNB - Cargo Apron,OUT OF SERVICE,05/09/2026,2027-09-05,fleet no. 12,"awaiting spare part, ETA 2 wks",S.Kamau
+LGT-482,Wind Cone Light,Airfield Lighting,Kigali Intl - TWY C,Decommissioned,27/03/2026,20260426,lamps out: 1/12,"intermittent fault, see WO#18855",R. Bekele
+ACF-848,Bombardier Q400,Aircraft,LOS - Hangar 1,In Service,,,reg 5X-HHZ; Uganda Airlines,AOG - waiting on part,J. Mugisha
+ACF-597,Airbus A330-300,aircraft,JNB - Maintenance Apron,OK,04-26-26,"Oct 23, 2026",MSN 5400; delivered 2013,,R. Bekele
