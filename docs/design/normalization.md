@@ -5,7 +5,7 @@
 2. ATC
 3. Equipment
 4. Runway
-5. Maintenance Log
+5. Maintenance 
 6. Inspection
 
 ## Normalization Process
@@ -58,7 +58,7 @@ How the raw fields in the dataset map to a target table and column.
 | edge_light | edge_light | Direct mapping | No conversion |
 | shape__length | shape_length | Direct mapping | text to `NUMBER` |
 
-### Maintenance Log
+### Maintenance 
 | Raw Field | Target Column | Special Note | Type Conversion |
 | -------- | -------- | -------- | -------- |
 | Col 0 | maintenance_id | Inferred column name | text to `INT` | 
