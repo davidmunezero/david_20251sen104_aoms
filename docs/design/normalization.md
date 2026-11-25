@@ -12,7 +12,7 @@
 UNF -> 1NF -> 2NF -> 3NF 
 
 ## Field Mapping
-How every raw field maps to a target table and column. 
+How the raw fields in the dataset map to a target table and column. 
 
 ### Staff
 | Raw Field | Target Column | Special Note | Type Conversion |
@@ -79,4 +79,11 @@ How every raw field maps to a target table and column.
 | Col 14 | N/A | Dropped because all field values are empty | N/A | 
 
 ### Inspection
-Table
+| Raw Field | Target Column | Special Note | Type Conversion |
+| -------- | -------- | -------- | -------- |
+| OperatorControlNumber | inspector_ide | Direct mapping | No conversion |  
+| DifficultyDate | inspection_date | Direct mapping | text to `DATE` |
+| AircraftSerialNumber | equipment_id | Direct mapping | text to `INT` |
+| NatureOfConditionA | result | Direct mapping | No conversion |
+
+**Note:** The rest of the raw fields in inspections.csv were dropped due to a mismatch with the intended inspection schema.
