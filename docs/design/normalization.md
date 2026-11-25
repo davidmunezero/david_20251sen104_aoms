@@ -81,7 +81,8 @@ How the raw fields in the dataset map to a target table and column.
 ### Inspection
 | Raw Field | Target Column | Special Note | Type Conversion |
 | -------- | -------- | -------- | -------- |
-| OperatorControlNumber | inspector_ide | Direct mapping | No conversion |  
+| OperatorControlNumber | inspector_ide | Indirect mapping | No conversion | 
+| SubmitterDesignator | inspector_org | Indirect mapping | No conversion |
 | DifficultyDate | inspection_date | Direct mapping | text to `DATE` |
 | AircraftSerialNumber | equipment_id | Direct mapping | text to `INT` |
 | NatureOfConditionA | result | Direct mapping | No conversion |
