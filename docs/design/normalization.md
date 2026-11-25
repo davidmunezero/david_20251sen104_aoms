@@ -15,51 +15,68 @@ UNF -> 1NF -> 2NF -> 3NF
 How every raw field maps to a target table and column. 
 
 ### Staff
-| Raw Field | Target Column | Special Note |
-| -------- | -------- | -------- |
-| Col 0 | staff_id | Inferred column name |
-| Col 1 | name | Inferred column name |
-| Col 2 | department | Inferred column name |
-| Col 3 | role | Inferred column name |
-| Col 4 | hire_date | Inferred column name |
-| Col 5 | shift_start | Inferred column name |
-| Col 6 | shift_end | Inferred column name |
-| Col 7 | terminal  | Inferred column name |
-| Col 8 | gate  | Inferred column name |
-| Col 9 | supervisor_id | Inferred column name |
-| Col 10 | shift_hours  | Inferred column name |
-| Col 11 | works_overtime  | Inferred column name |
-| Col 12 | N/A | Dropped because it was empty |
-| Col 13 | N/A | Did not make sense to keep |
-| Col 14 | language | Inferred column name |
+| Raw Field | Target Column | Special Note | Type Conversion |
+| -------- | -------- | -------- | -------- |
+| Col 0 | staff_id | Inferred column name | text to `INT` |
+| Col 1 | name | Inferred column name | No conversion |
+| Col 2 | department | Inferred column name | No conversion |
+| Col 3 | role | Inferred column name | No conversion |
+| Col 4 | hire_date | Inferred column name | text to `DATE` |
+| Col 5 | shift_start | Inferred column name | text to `TIMESTAMP` |
+| Col 6 | shift_end | Inferred column name | text to `TIMESTAMP` |
+| Col 7 | terminal  | Inferred column name | No conversion |
+| Col 8 | gate  | Inferred column name | No conversion |
+| Col 9 | supervisor_id | Inferred column name | text to `INT` |
+| Col 10 | shift_hours  | Inferred column name | text to `NUMBER` |
+| Col 11 | works_overtime  | Inferred column name | text to `BOOLEAN` |
+| Col 12 | N/A | Dropped because it was empty | N/A |
+| Col 13 | N/A | Did not make sense to keep | N/A |
+| Col 14 | language | Inferred column name | No conversion |
 
 ### Equipment
-| Raw Field | Target Column | Special Note |
-| -------- | -------- | -------- |
-| asset_id | equipment_id | Direct mapping | 
-| equipment | name | Direct mapping | 
-| category | category | Direct mapping | 
-| location | location | Direct mapping | 
-| status | status | Direct mapping | 
+| Raw Field | Target Column | Special Note | Type Conversion |
+| -------- | -------- | -------- | -------- |
+| asset_id | equipment_id | Direct mapping | text to  `INT` |
+| equipment | name | Direct mapping | No conversion |
+| category | category | Direct mapping | No conversion |
+| location | location | Direct mapping | No conversion |
+| status | status | Direct mapping | No conversion |
 | last_inspection | last_inspection | Direct mapping (derived attribute) | 
-| details | details | Direct mapping | 
-| notes | N/A | Dropped due to redundancy (maintenance logs mention faults) | 
-| technician | N/A | Dropped because it does not relate to equipment details |
+| details | details | Direct mapping | No conversion |
+| notes | N/A | Dropped due to redundancy (maintenance logs mention faults) | N/A |
+| technician | N/A | Dropped because it does not relate to equipment details | N/A |
 
 ### Runway
-| Raw Field | Target Column | Special Note |
-| -------- | -------- | -------- |
-| objectid | runway_id | Direct mapping | 
-| runway_ide | identifier | Direct mapping |
-| runway_len | length | Direct mapping |
-| runway_wid | width | Direct mapping |
-| airport_id | N/A | Dropped as it did not  |
-| surface_ty | surface_type | Direct mapping |
-| edge_light | edge_light | Direct mapping |
-| shape__length | shape_length | Direct mapping |
+| Raw Field | Target Column | Special Note | Type Conversion |
+| -------- | -------- | -------- | -------- |
+| objectid | runway_id | Direct mapping | text to `INT` |
+| runway_ide | identifier | Direct mapping | No conversion |
+| runway_len | length | Direct mapping | text to `NUMBER` |
+| runway_wid | width | Direct mapping | text to `NUMBER` |
+| airport_id | N/A | Dropped because no airport table exists | N/A |
+| surface_ty | surface_type | Direct mapping | No conversion |
+| edge_light | edge_light | Direct mapping | No conversion |
+| shape__length | shape_length | Direct mapping | text to `NUMBER` |
 
 ### Maintenance Log
-Table 
+| Raw Field | Target Column | Special Note | Type Conversion |
+| -------- | -------- | -------- | -------- |
+| Col 0 | maintenance_id | Inferred column name | text to `INT` | 
+| Col 1 | equipment_id | Inferred column name | text to `INT` | 
+| Col 2 | N/A | Dropped due to ambiguity | N/A | 
+| Col 3 | maintenance_type | Inferred column name | No conversion | 
+| Col 4 | technician_id | Inferred column name | text to `INT` | 
+| Col 5 | start_time | Inferred column name | text to `TIMESTAMP` | 
+| Col 6 | end_time | Inferred column name | text to `TIMESTAMP` | 
+| Col 7 | priority | Inferred column name | text to `INT` | 
+| Col 8 | N/A | Dropped due to ambiguity | N/A | 
+| Col 9 | fault_type | Inferred column name | No conversion | 
+| Col 10 | N/A | Dropped due to ambiguity | N/A | 
+| Col 11 | N/A | Dropped due to ambiguity | N/A | 
+| Col 12 | approved_by | Inferred column name | text to `INT` | 
+| Col 12 | N/A | Dropped due to ambiguity | N/A | 
+| Col 13 | is_completed | Inferred column name | text to `BOOLEAN` | 
+| Col 14 | N/A | Dropped because all field values are empty | N/A | 
 
 ### Inspection
 Table
