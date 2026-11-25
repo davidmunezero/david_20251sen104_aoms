@@ -41,7 +41,8 @@ How the raw fields in the dataset map to a target table and column.
 | category | category | Direct mapping | No conversion |
 | location | location | Direct mapping | No conversion |
 | status | status | Direct mapping | No conversion |
-| last_inspection | last_inspection | Direct mapping (derived attribute) | 
+| last_inspection | last_inspection | Direct mapping (derived attribute) | text to `DATE` |
+| next_due | N/A | Dropped because next inspection date depends on the maintenance schedule, which is not captured in the DB | N/A |
 | details | details | Direct mapping | No conversion |
 | notes | N/A | Dropped due to redundancy (maintenance logs mention faults) | N/A |
 | technician | N/A | Dropped because it does not relate to equipment details | N/A |
